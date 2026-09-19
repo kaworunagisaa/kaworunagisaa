@@ -1,6 +1,6 @@
 ## yo welcome to my gh 💀
 <img src="https://cdn.phototourl.com/member/2026-09-19-d8f564c5-fe60-4855-ae14-2ecef5da3f79.jpg" alt="No bro bro meme" width="600">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=nagisalings&color=0B2D5C&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kaworunagisaa&label=nagisalings&color=001F3F&style=for-the-badge" />
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
