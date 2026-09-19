@@ -8,6 +8,9 @@
   <br>
   <b>my magnificent creature </b>
 </p>
+<p align="center">
+  <img src="images/1000013293.jpg" width="500">
+</p>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
