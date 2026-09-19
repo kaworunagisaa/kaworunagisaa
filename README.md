@@ -7,7 +7,9 @@
   <img src="https://cdn.phototourl.com/member/2026-09-19-3920efd7-00ce-4637-a01e-c289df105bd9.jpg" width="400">
   <br>
   <b>my magnificent creature </b>
-
+<p align="center">
+  <img src="1000013293.jpg" width="500">
+</p>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
