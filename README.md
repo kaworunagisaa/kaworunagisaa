@@ -1,4 +1,5 @@
-## Hi there 👋
+## yo welcome to my repo 💀
+<img src="https://cdn.phototourl.com/member/2026-09-19-d8f564c5-fe60-4855-ae14-2ecef5da3f79.jpg" alt="No bro bro meme" width="600">
 
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
