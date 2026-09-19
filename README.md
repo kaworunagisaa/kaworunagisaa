@@ -1,4 +1,4 @@
-## yo welcome to my repo 💀
+## yo welcome to my gh 💀
 <img src="https://cdn.phototourl.com/member/2026-09-19-d8f564c5-fe60-4855-ae14-2ecef5da3f79.jpg" alt="No bro bro meme" width="600">
 
 <!--
