@@ -8,7 +8,6 @@
   <br>
   <b>my magnificent creature </b>
 </p>
-<b>here have a edd fanart by me</b>
 <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-09-20-e5a27c56-1542-434e-9773-f1871474aa48.jpg" width="700">
 </p>
