@@ -9,6 +9,10 @@
   <b>my magnificent creature </b>
 </p>
 <p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-20-e2471526-90c8-427f-a65e-bc5013d794c4.jpg" width="350">
+  <b>my oc yo</b>
+</p>
+<p align="center">
   <img src="https://cdn.phototourl.com/member/2026-09-20-e5a27c56-1542-434e-9773-f1871474aa48.jpg" width="700">
 </p>
 <p align="center">
@@ -19,10 +23,7 @@
   <img src="https://cdn.phototourl.com/member/2026-09-20-fd346022-5f80-4e04-9ef3-cde9a3fe9715.jpg" width="350">
 </p>
 <b>with my shinji 💀</b>
-<p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-09-20-e2471526-90c8-427f-a65e-bc5013d794c4.jpg" width="350">
-  <b>my oc yo</b>
-</p>
+
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
