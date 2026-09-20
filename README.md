@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-09-20-5c2b15ef-704b-4e2d-b5fd-b98ae9ec2ac0.jpg" width="500">
 </p>
-<b>SONN yall cannot defeat meh 🍅</b>
+<b>im the larp god</b>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
