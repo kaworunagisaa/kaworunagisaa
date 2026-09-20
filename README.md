@@ -18,6 +18,9 @@
   <img src="https://cdn.phototourl.com/member/2026-09-20-5c2b15ef-704b-4e2d-b5fd-b98ae9ec2ac0.jpg" width="500">
 </p>
 <b>im the larp god</b>
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-20-fd346022-5f80-4e04-9ef3-cde9a3fe9715.jpg" width="350">
+</p>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
