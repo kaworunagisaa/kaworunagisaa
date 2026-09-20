@@ -7,8 +7,6 @@
   <img src="https://cdn.phototourl.com/member/2026-09-19-3920efd7-00ce-4637-a01e-c289df105bd9.jpg" width="400">
   <br>
   <b>my magnificent creature </b>
-<p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-09-19-f6cfdab3-1f7e-4852-a222-22ba8821f7af.jpg" width="250">
 </p>
 <b>here have a edd fanart by me</b>
 <p align="center">
@@ -24,6 +22,7 @@
 <b>with my shinji 💀</b>
 <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-09-20-e2471526-90c8-427f-a65e-bc5013d794c4.jpg" width="350">
+  <b>my oc yo</b>
 </p>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
