@@ -2,6 +2,11 @@
 </p>
 <b>with alex</b>
 <p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=kaworunagisaa&label=nagisalings&color=003B73&style=for-the-badge" />
+
+</p>
+<p align="center">
   <img src="https://cdn.phototourl.com/free/2026-09-21-01cba302-827e-410c-9023-44448e308a08.png" width="350">
 </p>
 <b>my kiing bondera bond🤤🤤</b>
