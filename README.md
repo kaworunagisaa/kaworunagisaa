@@ -7,6 +7,11 @@
   <i>with alex ~</i>
 </p>
 <p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=kaworunagisaa&label=nagisalings&color=003B73&style=for-the-badge" />
+
+</p>
+<p align="center">
  <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-09-26-e6b6501c-dff4-478f-8cc1-bfa343b3b14a.jpg" width="500">
 </p>
