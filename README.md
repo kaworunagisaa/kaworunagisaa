@@ -1,7 +1,13 @@
+## yo welcome to my gh 💀
+
+<p align="center">
  <img src="https://cdn.phototourl.com/member/2026-09-20-fd346022-5f80-4e04-9ef3-cde9a3fe9715.jpg" width="350">
 </p>
 <b>with alex ~</b>
-
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-26-a1a1935c-ae0e-4895-82d9-28f08d95ca38.jpg" width="500">
+</p>
+<b>this me irl 💀</b>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
