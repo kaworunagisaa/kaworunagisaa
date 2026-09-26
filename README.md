@@ -5,9 +5,6 @@
 </p>
 <b>with alex ~</b>
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-09-26-f11bbbda-75fe-49c8-80ba-ecacbb6317af.jpg" width="500">
-</p>
-<b>this me irl 💀</b>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
