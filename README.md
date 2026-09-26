@@ -3,7 +3,9 @@
 <p align="center">
  <img src="https://cdn.phototourl.com/member/2026-09-20-fd346022-5f80-4e04-9ef3-cde9a3fe9715.jpg" width="350">
 </p>
-<b>with alex ~</b>
+<p align="center">
+  <i>with alex ~</i>
+</p>
 <p align="center">
  <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-09-26-e6b6501c-dff4-478f-8cc1-bfa343b3b14a.jpg" width="500">
