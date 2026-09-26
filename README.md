@@ -5,7 +5,7 @@
 </p>
 <b>with alex ~</b>
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-09-26-a1a1935c-ae0e-4895-82d9-28f08d95ca38.jpg" width="500">
+  <img src="https://cdn.phototourl.com/member/2026-09-26-f11bbbda-75fe-49c8-80ba-ecacbb6317af.jpg" width="500">
 </p>
 <b>this me irl 💀</b>
 <!--
