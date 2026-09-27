@@ -1,12 +1,14 @@
 ## yo welcome to my gh 💀
 
-<p align="center">
+<div align="center">
 
 ### ♫ now playing
 
 <a href="https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5">
-  <img src="https://img.shields.io/badge/♫%20Jane!-The%20Long%20Faces-191414?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/%E2%99%AB%20Jane!-The%20Long%20Faces-191414?style=flat-square&logo=spotify&logoColor=1DB954" alt="Jane! — The Long Faces">
 </a>
+
+</div>
 
 </p>
 
