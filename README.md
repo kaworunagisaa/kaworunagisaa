@@ -5,12 +5,14 @@
 ### ♫ now playing
 
 <a href="https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5">
-  <img src="https://img.shields.io/badge/%E2%99%AB%20Jane!-The%20Long%20Faces-191414?style=flat-square&logo=spotify&logoColor=1DB954" alt="Jane! — The Long Faces">
+  <img
+    src="https://img.shields.io/badge/%E2%99%AB%20Jane!-The%20Long%20Faces-191414?style=for-the-badge&logo=spotify&logoColor=1DB954"
+    alt="Jane! — The Long Faces"
+    style="border-radius: 20px;"
+  />
 </a>
 
 </div>
-
-</p>
 
 <p align="center">
  <img src="https://cdn.phototourl.com/member/2026-09-20-fd346022-5f80-4e04-9ef3-cde9a3fe9715.jpg" width="350">
