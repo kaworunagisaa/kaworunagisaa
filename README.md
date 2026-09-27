@@ -1,6 +1,12 @@
 ## yo welcome to my gh 💀
 
 <p align="center">
+  <a href="https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5">
+    ♫ Jane! — The Long Faces
+  </a>
+</p>
+
+<p align="center">
  <img src="https://cdn.phototourl.com/member/2026-09-20-fd346022-5f80-4e04-9ef3-cde9a3fe9715.jpg" width="350">
 </p>
 <p align="center">
