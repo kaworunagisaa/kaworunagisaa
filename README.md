@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ♫ now playing
+### ♫ listen it
 
 <a href="https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5">
   <img
