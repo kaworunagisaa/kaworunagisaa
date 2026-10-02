@@ -1,4 +1,7 @@
 ## yo welcome to my gh 💀
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-10-02-c25b0eb3-fc94-460b-b02a-43e3fc2829d0.jpg" width="350">
+</p>
 
 <div align="center">
 
