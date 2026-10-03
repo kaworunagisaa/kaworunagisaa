@@ -31,6 +31,9 @@
   <img src="https://cdn.phototourl.com/member/2026-09-26-e6b6501c-dff4-478f-8cc1-bfa343b3b14a.jpg" width="500">
 </p>
 <p align="center">
+  <p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-10-03-7699059a-81eb-4b66-8b8d-5e47466c0291.png" width="700">
+</p>
 <!--
 **kaworunagisaa/kaworunagisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
